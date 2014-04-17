@@ -1,0 +1,16 @@
+[color]
+	ui = auto
+[alias]
+	st = status
+	sm = submodule
+	ls = ls-files --stage
+	ci = commit
+	cl = clean
+	br = branch -a
+	co = checkout
+	df = diff
+	logp = log -p
+	logf = log --first-parent
+	rup = remote update --prune
+	mg = merge --ff-only
+	pl = pull --ff-only
